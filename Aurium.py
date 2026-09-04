@@ -1,4 +1,3 @@
-# YASMIN BRITO ARAUJO RA149858
 import sys
 from dataclasses import dataclass
 
